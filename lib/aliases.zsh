@@ -20,7 +20,7 @@ alias lsa='ls -lah'
 alias l='ls -lA1'
 alias ll='ls -l'
 alias la='ls -lA'
-alias sl=ls # often screw this up
+#alias sl=ls # often screw this up
 
 alias afind='ack-grep -il'
 
